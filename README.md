@@ -7,3 +7,4 @@
 |3.|Consecutive Characters|Math|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/)|
 |4.|Minimum Height Trees|Graph|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/)|
 |5.|Minimum Cost to Move Chips to The Same Position|Math|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/)|
+|6.|Find the Smallest Divisor Given a Threshold|Binary Search|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)|
