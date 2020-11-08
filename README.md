@@ -9,3 +9,4 @@
 |5.|Minimum Cost to Move Chips to The Same Position|Math|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/)|
 |6.|Find the Smallest Divisor Given a Threshold|Binary Search|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)|
 |7.|Add Two Numbers II|Linked List|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3522/)|
+|8.|Binary Tree Tilt|Binary Tree|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/)|
