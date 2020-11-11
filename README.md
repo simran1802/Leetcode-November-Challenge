@@ -12,3 +12,4 @@
 |8.|Binary Tree Tilt|Binary Tree|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/)|
 |9.|Maximum Difference Between Node and Ancestor|DFS|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/)|
 |10.|Flipping an Image|Two Pointers|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/)|
+|11.|Valid Square|Vector & Set|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/)|
