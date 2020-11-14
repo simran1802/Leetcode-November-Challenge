@@ -15,3 +15,4 @@
 |11.|Valid Square|Vector & Set|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/)|
 |12.|Permutations II|Backtracking|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/)|
 |13.|Populating Next Right Pointers in Each Node|Trees|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3529/)|
+|14.|Poor Pigs|Greedy|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3530/)|
