@@ -19,3 +19,4 @@
 |15.|Range Sum of BST|Binary Search Tree|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3532/)|
 |16.|Longest Mountain in Array|Vector|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3533/)|
 |17.|Mirror Reflection|Bit Manipulation|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3534/)|
+|18.|Merge Intervals|Vector|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3535/)|
