@@ -25,3 +25,4 @@
 |21.|Numbers At Most N Given Digit Set|String|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3538/)|
 |22.|Unique Morse Code Words|Set|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3540/)|
 |23.|House Robber III|Recursion|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3541/)|
+|24.|Basic Calculator II|Stack and StringStream|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3542/)|
