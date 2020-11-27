@@ -28,3 +28,4 @@
 |24.|Basic Calculator II|Stack and StringStream|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3542/)|
 |25.|Smallest Integer Divisible by K|Pigeonhole Principle|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/)|
 |26.|Longest Substring with At Least K Repeating Characters|Recursion|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/)|
+|27.|Partition Equal Subset Sum|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/)|
