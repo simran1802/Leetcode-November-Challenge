@@ -31,3 +31,4 @@
 |27.|Partition Equal Subset Sum|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/)|
 |28.|Sliding Window Maximum|Deque|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3546/)|
 |29.|Jump Game III|Recursion|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/)|
+|30.|The Skyline Problem|Set and Multiset|[Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3549/)|
